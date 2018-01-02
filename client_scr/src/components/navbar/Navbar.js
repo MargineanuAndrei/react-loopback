@@ -7,7 +7,7 @@ class Navbar extends Component{
       <div>
         <nav className="blue darken-3">
           <ul className="left">
-            <li><Link to="/">Meetupz</Link></li>
+            <li><Link to="/">Meetups</Link></li>
             <li><Link to="/meetups/add"> Add Meetup</Link></li>
             <li><Link to="/about">About</Link></li>
           </ul>
